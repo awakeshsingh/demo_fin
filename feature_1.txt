@@ -1,0 +1,1 @@
+this is feature one developed to justify the merged and rebase command of git documentation
